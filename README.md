@@ -1,2 +1,2 @@
-# Leno-Template_1-
+# Leno-Template_1
 Design with HTML &amp; CSS
